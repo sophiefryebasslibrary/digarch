@@ -4,5 +4,7 @@ theme: just-the-docs
 
 url: https://sophiebassfryelibrary.github.io/digi-pres-docs/
 
+logo: "/assets/images/mohai-logo.png"
+
 aux_links:
   Collections Homepage: https://mohai.org/collections-and-research/

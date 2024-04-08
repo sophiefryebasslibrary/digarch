@@ -16,10 +16,10 @@ The library's digital archive work currently centers on migrating born-digital p
 Previous digital archives projects include an oral history line-item inventory (2019), a digital preservation assessment and plan (2019), and a born-digital object inventory (2024). 
 
 ## Staff and Consultants
-Anna Elam, Library Collections Manager
-Jody Hendrickson, Archivist
-Darcy Ruppert, Project Digital Archivist
-Marie Williams Chant, Digital Preservation Consultant
+### Anna Elam, Library Collections Manager
+### Jody Hendrickson, Archivist
+### Darcy Ruppert, Project Digital Archivist
+### Marie Williams Chant, Digital Preservation Consultant
 
 ## Visiting the library
 The Sophie Frye Bass Library is located in the MOHAI Resource Center in the Georgetown neighborhood of Seattle. The address is 5933 6th Avenue South. The library's hours are only 1-4 pm Tuesdays, Wednesdays, and Fridays by appointment. 

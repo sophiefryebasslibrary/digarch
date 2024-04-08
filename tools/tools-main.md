@@ -13,7 +13,7 @@ Iromlab (Image and Rip Optical Media Like A Boss) provides a simple and straight
 ### [DROID](https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/)
 DROID is a software tool developed by The National Archives (UK) to perform automated batch identification of file formats.
 
-### [Bagger](https://github.com/LibraryOfCongress/bagger).
+### [Bagger](https://github.com/LibraryOfCongress/bagger)
 The Bagger application was created for the U.S. Library of Congress as a tool to produce a package of data files according to the BagIt specification.
 
 ### [Fixity Pro](https://www.fixitypro.com/)

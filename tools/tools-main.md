@@ -1,10 +1,10 @@
 ---
 Title: Tools
 Layout: default
-nav_order: 0
+nav_order: 1
 has_children: false
 ---
-## Introduction
+## Tools
 We focus on streamlined processes and carefully selecting digital preservation tools that create standardized packages per the Open Archival Information System (OAIS) information model. We are using the following software to process approximately 10,000 pieces of optical media. 
 
 ### [IROMLAB](https://github.com/KBNLresearch/iromlab)

@@ -10,7 +10,7 @@ MOHAI's research library, known as the Sophie Frye Bass Library, preserves and p
 
 Within the past five years, digital preservation has been a strategic focus of the library, with multiple projects being completed that help center the importance of migration, maintenance, and stewardship.
 
-## Digital Archives Projects
+## Digital Archive Projects
 The library's digital archive work currently centers on migrating born-digital photographs stored on optical media into stable digital storage. Broader work centers around born-digital accessioning and processing workflows and building sustainable digital preservation practices that fit into the organization's strategic plan. 
 
 Previous digital archives projects include an oral history line-item inventory (2019), a digital preservation assessment and plan (2019), and a born-digital object inventory (2024). 

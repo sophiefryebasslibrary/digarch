@@ -2,7 +2,7 @@
 Title: Tools
 Layout: default
 nav_order: 2
-has_children: false
+has_children: true
 ---
 ## Tools
 We focus on streamlined processes and carefully selecting digital preservation tools that can create standardized packages per the Open Archival Information System (OAIS) information model. We are using the following tools to process approximately 10,000 pieces of optical media. 

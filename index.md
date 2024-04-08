@@ -1,5 +1,5 @@
 ---
-title: MOHAI Digital Archives
+title: About the Digital Archives
 layout: home
 nav_order: -2
 has_children: false

@@ -60,6 +60,59 @@ The basic structure of this workflow is to transfer content from obsolete physic
 ## Bag Content
 * **Required**: [Bagger](https://sophiebassfryelibrary.github.io/digarch/tools/software-programs.html#bagger)
 
+### Install Seattle PI Bagger Profile
+* If not currently installed, drag mohai-seattle-pi-profile.json to <code>C:\Documents and Settings\<user>\bagger</code>
+
+### Open Bagger
+* Click bagger.bat to start running the application
+
+### Create a bag
+* On the main screen, select Create a New Bag
+* Select the profile mohai-seattle-pi-profile
+* Click OK
+* All fields are required excepted the notes field
+
+#### Metadata Values
+MOHAI Seattle PI Profile
+*Collection Number:
+* Collection Title:
+* Box Number:
+* Item Number Range:
+* physicalLocation:
+* dateRange: (Years only; if only one year, list once.)
+* digitalLocation(s): (List all digital storage locations)
+* accessClassification: (Open/Public Use, Open/Redacted, Contains Some Sensitive Records, Confidential/Sensitive, Not Reviewed/Unknown)
+* batchNumbers:
+* batchDates (YYYY-MM-DD):
+* jobNumbers:
+* completedBy:
+
+### Add payload to bag
+* Go to File > Add Data
+* Select all the content that will go in the bag (all box data)
+* Select the Open button to place digital content in the bag
+* This is simply creating a list of content for the bag; you can continue adding content to your content.
+
+### Save the bag
+* Click on the Save Bag As button
+* Make sure the tag manifest and payload manifest are set to MD5
+* Click the Browse button to save to the desired location
+* Use the naming convention ending in _bag
+* Click OK to save the bag
+* Bagger will first checksum the original files, then copy the files to the desired location. This may take awhile—do not worry!
+* Once complete, a pop-up window will appear; click OK.
+* You will now see information about the new bag.
+
+### Validate the bag
+* Generally, it is good practice to validate the bag after creating it
+* Select Open Existing Bag
+* Navigate to the bag you just created and click Open.
+* Click Validate Bag
+* Once the validation is complete, a pop-up window will appear that says Validation successful. Click OK.
+
+### Close the bag
+* Click Close Bag
+* If Bagger asks you to save the bag, select No.
   
 ## Perform Automated Fixity Checks
 * **Required**: [Fixity Pro](https://sophiebassfryelibrary.github.io/digarch/tools/software-programs.html#fixity-pro)

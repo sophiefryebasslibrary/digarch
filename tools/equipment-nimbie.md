@@ -2,7 +2,8 @@
 layout: default
 title: Nimbie Autoloader
 parent: Equipment
-nav_order: -1
+grand_parent: Tools
+nav_order: 0
 ---
 # Nimbie Autoloader
 ## Supported Formats

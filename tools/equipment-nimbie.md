@@ -21,7 +21,7 @@ nav_order: 0
 * Millenium Disc
 
 ## Software
-We use Johan van der Knijf's [IROMLAB] developed for the Koninklijke Bibliotheek. At present, IROMLAB is configured to work with IsoBuster.
+We use Johan van der Knijf's [IROMLAB](https://github.com/KBNLresearch/iromlab) developed for the Koninklijke Bibliotheek. IROMLAB is currently configured to work with IsoBuster to create bulk disc images using the Nimbie Autoloader. It can also be configured to work with audio sessions with [dBpoweramp](https://www.dbpoweramp.com/).
 
 ## Workstation
 The Nimbie is set-up at the digital preservation workstation in the library.

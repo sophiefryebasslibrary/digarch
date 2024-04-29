@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Transfer Equipment
+title: Equipment
 parent: Tools
 nav_order: 2
 has_children: true

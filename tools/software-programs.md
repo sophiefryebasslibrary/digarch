@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Programs
-parent: software
-nav_order: 1
+parent: Software
+grand_parent: Tools
+nav_order: 0
 ---
 # Programs
 
@@ -23,3 +24,13 @@ DROID is a software tool developed by The National Archives (UK) to perform auto
 Fixity Pro is an integrity checking tool developed and maintained by [AVP](https://www.weareavp.com/).
 
 [Fixity Pro Documentation (PDF)](https://fixity-releases.s3.amazonaws.com/docs/Fixity_Pro_Documentation.pdf)
+
+## IROMLAB
+Iromlab (Image and Rip Optical Media Like A Boss ) provides a simple and straightforward way to save the content of offline optical media using a Nimbie Autoloader.
+
+[IROMLAB Documentation (Github)](https://github.com/KBNLresearch/iromlab)
+
+## Isobuster
+IsoBuster is a highly specialized media data recovery tool. IROMLAB wraps around Isobuster to create bulk disc images using the Nimbie Autoloader. 
+
+[Isobuster Documentation (Developer Website)](https://www.isobuster.com/help/)

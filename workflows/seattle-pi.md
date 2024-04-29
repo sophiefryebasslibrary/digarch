@@ -74,7 +74,7 @@ The basic structure of this workflow is to transfer content from obsolete physic
 
 #### Metadata Values
 MOHAI Seattle PI Profile
-*Collection Number:
+* Collection Number:
 * Collection Title:
 * Box Number:
 * Item Number Range:

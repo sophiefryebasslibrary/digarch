@@ -4,7 +4,7 @@ layout: home
 nav_order: -2
 has_children: false
 ---
-# About the Sophie Bass Frye Library at the Museum of History and Industry (MOHAI)
+# About the Sophie Frye Bass Library at the Museum of History and Industry (MOHAI)
 
 MOHAI's research library, known as the Sophie Frye Bass Library, preserves and provides access to historic photographs and manuscripts, maps, books, motion pictures, and printed ephemera. Its collections cover the Seattle metropolitan area, Washington State, and Alaska. Archival holdings include business and organization records, personal papers, and other historical documents. There is also a growing collection of more than 600 oral histories.
 
